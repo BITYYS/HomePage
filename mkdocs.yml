@@ -1,0 +1,63 @@
+site_name: BIT游泳社
+
+
+
+nav:
+  - 主页: index.md
+  - 部门介绍:
+    - 活动部  : 部门介绍/index.md
+    - 财务部  : 部门介绍/index.md
+    - 宣传部  : 部门介绍/index.md
+    - 教练组  : 部门介绍/index.md
+  - 通知公告: 
+    - 2019:
+      - 活动通知 :  通知公告/index.md
+      - 比赛通知 :  通知公告/index.md
+    - 2020:
+      - 活动通知 : 通知公告/index.md
+      - 比赛通知 : 通知公告/index.md
+  - 管理员:
+    - 2019秋 : 管理员/index.md
+    - 2020春 : 管理员/index.md
+    - 2020秋 : 管理员/index.md
+    - 2021春 : 管理员/index.md
+  - 社团活动: 
+    - 2019:
+      - 第三次活动记录 : 活动记录/index.md
+  - 教练组: 教练组/index.md
+  - 校游泳队: 
+    - 历任队长 : 校游泳队/历任队长/index.md
+    - 活动记录 : 校游泳队/活动记录/index.md
+    - 比赛记录 : 校游泳队/比赛记录/index.md
+  - 校记录: 校记录/index.md
+  - 联系我们: 联系我们/index.md
+
+theme:
+  name: material
+  language: zh 
+
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    
+  favicon: img/icon/favicon.ico
+  logo: img/icon/favicon.png
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+
+
