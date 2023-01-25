@@ -1,4 +1,8 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
+# 左侧省略，全覆盖各个平台联系方式
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

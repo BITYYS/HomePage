@@ -2,7 +2,7 @@
 hide:
   - toc
 ---
-# 右侧省略或双侧省略，Markdown内嵌HTML实现人物框
+# 内嵌指导教师大人物框，右侧省略
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

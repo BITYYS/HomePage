@@ -1,4 +1,8 @@
-# Welcome to MkDocs
+---
+hide:
+  - toc
+---
+# 大人物框，右侧省略
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

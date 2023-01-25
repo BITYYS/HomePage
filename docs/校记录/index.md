@@ -1,4 +1,10 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+  - toc
+---
+
+# 大表格，双侧省略
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# 侧边导航不省略，纯Markdown，无定制
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

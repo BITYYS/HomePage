@@ -1,4 +1,8 @@
-# Welcome to MkDocs
+---
+hide:
+  - toc
+---
+# 右侧省略，Markdown内嵌HTML实现人物框
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

@@ -1,10 +1,17 @@
 site_name: BIT游泳社
+# site_url: https://bit-swimming.club/
+site_description: BIT游泳社官网
+site_author: BIT游泳社
 
+repo_name: BIT游泳社官网
+repo_url: https://github.com/BITYYS/HomePage
+edit_uri: ""
 
 
 nav:
   - 主页: index.md
   - 部门介绍:
+    - 社团简介  : 部门介绍/index.md
     - 活动部  : 部门介绍/index.md
     - 财务部  : 部门介绍/index.md
     - 宣传部  : 部门介绍/index.md
@@ -16,24 +23,29 @@ nav:
     - 2020:
       - 活动通知 : 通知公告/index.md
       - 比赛通知 : 通知公告/index.md
-  - 管理员:
-    - 2019秋 : 管理员/index.md
-    - 2020春 : 管理员/index.md
-    - 2020秋 : 管理员/index.md
-    - 2021春 : 管理员/index.md
   - 社团活动: 
     - 2019:
       - 第三次活动记录 : 活动记录/index.md
+  - 管理员:
+    - 第一届 : 管理员/index.md
+    - 第二届 : 管理员/index.md
+    - 第三届 : 管理员/index.md
+    - 第四届 : 管理员/index.md
   - 教练组: 教练组/index.md
   - 校游泳队: 
+    - 游泳队简介: 校游泳队/游泳队简介/index.md
     - 历任队长 : 校游泳队/历任队长/index.md
     - 活动记录 : 校游泳队/活动记录/index.md
     - 比赛记录 : 校游泳队/比赛记录/index.md
   - 校记录: 校记录/index.md
+  - 历届校赛成绩: 
+    - 2019-12延河杯 : 历届校赛成绩/index.md
+    - 2020-12延河杯 : 历届校赛成绩/index.md
   - 联系我们: 联系我们/index.md
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh 
 
   palette: 
