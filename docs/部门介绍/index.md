@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 侧边导航不省略，纯Markdown无定制，也可根据需求内嵌HTML
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).

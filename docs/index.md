@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 模板替换
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
