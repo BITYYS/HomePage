@@ -72,4 +72,7 @@ theme:
     - navigation.path
     - navigation.top
 
+extra_javascript:
+    - '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
+
 
